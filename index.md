@@ -14,13 +14,6 @@ If you have exported your Marp Markdown to HTML, you can view the formatted slid
 
 {% for file in site.static_files %}
 {% if file.extname == '.html' %}
-* **[{{ file.basename }} (Megtekintés HTML-ként)]({{ site.baseurl }}{{ file.url }})** | [Nyers Markdown (Raw MD)](https://raw.githubusercontent.com/openoms/slides/main{{ file.url | replace: '.html', '.md' }})
+* **[{{ file.basename }} (Megtekintés HTML-ként)]({{ file.path | relative_url }})** | [Nyers Markdown (Raw MD)](https://raw.githubusercontent.com/openoms/slides/main/{{ file.path | replace: '.html', '.md' | remove_first: '/' }})
 {% endif %}
-{% endfor %}
-
-## Minden Markdown forrásfájl (Raw Markdown Source)
-{% for page in site.pages %}
-  {% if page.name != 'index.md' and page.name != 'README.md' and page.ext == '.md' %}
-* [{{ page.name }}]({{ page.url | relative_url }}) - ([GitHub forrás](https://github.com/openoms/slides/blob/main{{ page.url | replace: '.html', '.md' }}))
-  {% endif %}
 {% endfor %}
