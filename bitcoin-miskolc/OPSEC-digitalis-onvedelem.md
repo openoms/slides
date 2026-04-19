@@ -79,13 +79,13 @@ style: |
 
 A mesterséges intelligencia új szintre emelte a csalásokat:
 
-* 🗣️ **Hang klónozás**: Családtagok hangjának lemásolása 10 másodpercnyi minta alapján (pl. kamu baleset miatti sürgős pénzkérés).
-* 🎥 **Deepfake videók**: Ismert emberek (pl. Elon Musk) arcával és hangjával hirdetett átverések, befektetési "lehetőségek".
-* 🎣 **AI által generált adathalászat**: Tökéletes nyelvtanú, személyre szabott emailek (spear phishing), amelyek a közösségi média profilod alapján íródnak.
+<p>🗣️ <strong>Hang klónozás</strong>: Családtagok hangjának lemásolása 10 másodpercnyi minta alapján (pl. kamu baleset miatti sürgős pénzkérés).</p>
+<p>🎥 <strong>Deepfake videók</strong>: Ismert emberek (pl. Elon Musk) arcával és hangjával hirdetett átverések, befektetési "lehetőségek".</p>
+<p>🎣 <strong>AI által generált adathalászat</strong>: Tökéletes nyelvtanú, személyre szabott emailek (spear phishing), amelyek a közösségi média profilod alapján íródnak.</p>
 
 </div>
 
-### ⚠️ "Ne higgy a szemednek és a fülednek sem automatikusan."
+### ⚠️ "Ne higgy a szemednek vagy a fülednek, győződj meg máshol."
 
 ---
 
@@ -94,26 +94,24 @@ A mesterséges intelligencia új szintre emelte a csalásokat:
 <div style="background: #4d0000; padding: 30px; border-left: 5px solid #ff0000; font-size: 24px;">
 
 💥 **Adatbázis feltörések** (Webshopok, szolgáltatók)
+
 🎯 **Célzott támadások és zsarolás**
+
 👁️ **Teljes privacy elvesztése**
+
 📊 **Adatbrókerek profilozása**
 
 </div>
 
 ---
 
-<!-- _class: lead -->
 
-## 🛡️ Operational Security 
-**(OpSec / Működési Biztonság)**
-
----
-
-### 🤐 Az aranyszabály
+### 🤐 ~~Arany~~ Bitcoin szabály
 
 <div style="background: #4d0000; padding: 50px; border-left: 5px solid #ff0000; font-size: 32px; text-align: center;">
 
 **Minimalizáld a digitális lábnyomod!**
+
 **Ne oszd meg az életed minden részletét online!**
 
 </div>
@@ -124,11 +122,16 @@ A mesterséges intelligencia új szintre emelte a csalásokat:
 
 <div style="font-size: 26px;">
 
-📱 Ne posztolj **valós idejű helyzetedről** (pl. nyaralás)
+📱 Ne posztolj **valós idejű helyzetedről** (pl. nyaralás, étterem)
+
 💰 Ne villogj **vagyontárgyakkal, pénzügyekkel**
+
 📍 Ne oszd meg, **hol laksz, vagy hol tanul a gyerek**
+
 🖼️ Ne használd ugyanazt a **profilképet** mindenhol
+
 🎁 Ne dőlj be a **sürgető kéréseknek** (scam gyanú!)
+
 🗣️ Rögzítsenek minél kevesebb **hang- és videóanyagot** rólad nyilvánosan
 
 </div>
@@ -146,8 +149,11 @@ A mesterséges intelligencia új szintre emelte a csalásokat:
 <div style="font-size: 26px;">
 
 ❌ A beszélgetéseidet **felhasználják a modell tanítására**
+
 ❌ Hozzákötik a **valódi identitásodhoz** (email, telefonszám, bankkártya)
+
 ❌ Centralizált adatbázisban tárolják a legféltettebb kérdéseidet (adatvédelmi kockázat)
+
 ❌ **Cenzúrázott** vagy korlátozott válaszok
 
 </div>
@@ -161,21 +167,20 @@ A mesterséges intelligencia új szintre emelte a csalásokat:
 <div style="background: #2d2d2d; padding: 15px; border-radius: 10px;">
 
 **ppq.ai**
-Gyors és privát AI LLM hozzáférés, regisztráció nélkül.
-
+Rengeteg modell, k;rd;senk;nt fizetve, lightninggal.
 </div>
 
 <div style="background: #2d2d2d; padding: 15px; border-radius: 10px;">
 
 **trymaple.ai**
-LLM modellek, privacy fókusszal, nyílt forráskóddal.
+Végponti titkosításra specializálódott (csak nyílt modelleket használ).
 
 </div>
 
 <div style="background: #2d2d2d; padding: 15px; border-radius: 10px;">
 
 **venice.ai**
-Permisszionális, AI eszközök, cenzúra nélkül.
+Sok modell és fizetési mód, előfizetés, vagy kérdésenként, TEE - E2E funkció.
 
 </div>
 
@@ -230,18 +235,25 @@ Alapvető digitális higiénia
 
 ### 🛡️ Adblocker
 
-<div style="background: #004d00; padding: 30px; border-left: 5px solid #00ff00; font-size: 26px;">
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 24px;">
+
+<div style="width:68%; background: #004d00; padding: 30px; border-left: 5px solid #00ff00; font-size: 26px;">
 
 **uBlock Origin** (Firefox, Chrome)
 
 ✅ Blokkolja a **hirdetéseket**
-✅ Blokkolja a **trackereket**
+
+✅ Blokkolja a **trackereket** (követés)
+
 ✅ Blokkolja a **malware** oldalakat
+
 ✅ **Nyílt forráskódú**
 
 </div>
 
-**Telepítsd:** https://ublockorigin.com
+</div>
+
+**Telepítsd:** [ublockorigin.com](https://ublockorigin.com)
 
 ---
 
@@ -254,7 +266,7 @@ Alapvető digitális higiénia
 ✅ **Ingyenes verzió**
 ✅ **Jelszó / jelmondat generátor** (20+ karakter)
 ✅ **Több eszközön szinkronizál**
-
+✅ **Importálja a máshol elmentett jelszavakat**
 </div>
 
 **https://bitwarden.com**
@@ -305,8 +317,13 @@ Alapvető digitális higiénia
 
 <div style="background: #4d0000; padding: 20px; margin-top: 20px; font-size: 24px;">
 
-❌ **SOHA ne SMS 2FA** (SIM swap támadás!)
+❌ ** ne használj: SMS alapú hitelesítést** (SIM swap támadás!)
 
+**Passkey**
+- hardveres biztonsági kulcs (pl. YubiKey)
+- jelszókezelőben tárolt passkey (pl. Bitwarden)
+
+Adathalász oldalak ellen is véd, mert a titok a domainhez van kötve.
 </div>
 
 ---
@@ -341,13 +358,16 @@ Alapvető digitális higiénia
 
 ---
 
-### 📧 Miért email alias?
+### 📧 Miért használj email aliast?
 
 <div style="font-size: 26px;">
 
 🎭 **Valódi email cím rejtése**
+
 💾 Ha egy szolgáltató **adatbázisa szivárog**, nem a valódi email-ed kerül ki
-🗑️ **Könnyű leiratkozás** (alias törlése)
+
+🗑️ **Könnyű leiratkozás** (alias törlése - szűrése)
+
 🚫 **Spam csökkentés**
 
 </div>
@@ -361,14 +381,16 @@ Alapvető digitális higiénia
 
 ---
 
-### 🔒 VPN
+### 🔒 VPN / Tor
 
 <div style="font-size: 24px;">
 
 **Mikor és miért fontos?**
 
 🌐 **IP cím és földrajzi hely elrejtése**
+
 🔒 **ISP (internetszolgáltató) nem látja**, miket böngészel
+
 📶 **Védelem nyilvános WiFi-n** (kávézók, repterek)
 
 </div>
@@ -381,11 +403,10 @@ Alapvető digitális higiénia
 |-----|-----------|--------|
 | **Mullvad** | Nincs fiók, Lightning fizetés, no-log | mullvad.net |
 | **IVPN** | Nincs fiók, Lightning fizetés, no-log | ivpn.net |
-
+| **Tor** | Lassabb, de biztosabb, ingyenes| torproject.org |
 
 <div style="background: #4d0000; padding: 20px; margin-top: 20px; font-size: 24px;">
 
-⚠️ **Az Ingyenes VPN-ek NEM biztonságosak! Cserébe az adataiddal fizetsz.**
 
 </div>
 
@@ -401,10 +422,14 @@ Alapvető digitális higiénia
 
 <div style="font-size: 28px; line-height: 2;">
 
-1. **"Ne bízz, ellenőrizz."** (Főleg az AI világban!)
+1. **"Ne bízz, ellenőrizz."** (Főleg az AI világában!)
+
 2. **Minimalizáld a megosztott adataidat.**
+
 3. **Egyedi jelszó + 2FA mindenhez.**
+
 4. **Használj email aliasokat gyanús helyeken.**
+
 5. **Fizess privát módon** (Lightning) ahol csak lehet.
 
 </div>
@@ -417,10 +442,11 @@ Alapvető digitális higiénia
 
 <div>
 
-❌ SMS 2FA használata
 ❌ Jelszó újrahasználat
+❌ Ellenőrizetlenül hagyott feloldott telefon/laptop
+
 ❌ Nyilvános WiFi VPN nélkül
-❌ Gép előtt hagyott feloldott telefon/laptop
+❌ SMS 2FA használata
 
 </div>
 
@@ -437,18 +463,19 @@ Alapvető digitális higiénia
 
 ---
 
-**Eszközök:**
-- Bitwarden: https://bitwarden.com
-- uBlock Origin: https://ublockorigin.com
-- DuckDuckGo Email: https://duckduckgo.com/email
-- SimpleLogin: https://simplelogin.io
+**Linkek**
+- Bitwarden: [bitwarden.com](https://bitwarden.com)
+- DuckDuckGo Email: [duckduckgo.com/email](https://duckduckgo.com/email)
+- SimpleLogin: [simplelogin.io](https://simplelogin.io)
+- uBlock Origin: [ublockorigin.com](https://ublockorigin.com)
 
-**Privát AI:**
-- ppq.ai, trymaple.ai, venice.ai
+- PPQ [ppq.ai](https://ppq.ai)
+- Maple[trymaple.ai](https://trymaple.ai)
+- Venice AI [venice.ai](https://venice.ai)
 
-**VPN:**
-- Mullvad: https://mullvad.net
-- IVPN: https://ivpn.net
+- Mullvad: [mullvad.net](https://mullvad.net)
+- IVPN: [ivpn.net](https://ivpn.net)
+- Tor Browser: [torproject.org/download](https://www.torproject.org/download/)
 
 ---
 
